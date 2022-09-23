@@ -1,0 +1,19 @@
+html {
+  visibility: hidden;
+}
+
+.wf-loading {
+  visibility: hidden;
+}
+
+.wf-cabin-n4-active {
+  visibility: visible;
+}
+
+.react-reveal {
+  animation-fill-mode: backwards !important;
+}
+
+body {
+  overflow-x: hidden;
+}
